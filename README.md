@@ -8,10 +8,20 @@ Il arrive souvent que l'on critique la météo pour ses erreurs de prédictions 
 - "Comment adapter les modèles de ML pour des conditions climatiques en évolution rapide ?"
 
 Dans de répo, vous trouvez mes recherches liées à ce sujet dont :
+- Projet pour le Master (2026-2028)
+- Projet pour le Doctorat (2028-2031)
 - Revues de littérature (papers).
 - Analyse de jeux de données météo.
 - Expérimentation avec des modèles de ML.
 - Rédaction du résumé de recherche.
+
+## Master (2026-2028)
+
+TODO
+
+## Doctorat (2028-2031)
+
+TODO
 
 ## A lire
 - https://www.sciencedirect.com/science/article/abs/pii/S1364032124009390
