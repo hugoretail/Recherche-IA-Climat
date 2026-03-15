@@ -14,7 +14,7 @@ Dans de répo, vous trouvez mes recherches liées à ce sujet dont :
 - Rédaction du résumé de recherche.
 
 ## A lire
-- https://www.sciencedirect.com/science/article/abs/pii/S1364032124009390
+- [x] https://www.sciencedirect.com/science/article/abs/pii/S1364032124009390
 - https://www.ipcc.ch/report/ar6/wg1/ (CHECK LE CHAPITRE 11 DU 6EME RAPPORT)
 - https://www.nature.com/articles/s41586-019-0912-1 (UTILISATION DU ML POUR PREDIRE LE CLIMAT ET LIMITES)
 - https://arxiv.org/abs/1809.10786 (Montre comment le deep learning peut améliorer les prédictions météo)
