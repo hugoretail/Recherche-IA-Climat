@@ -25,8 +25,8 @@ TODO
 
 ## A lire
 - [x] https://www.sciencedirect.com/science/article/abs/pii/S1364032124009390
-- [ ] https://www.ipcc.ch/report/ar6/wg1/ (> CHECK LE CHAPITRE 11 DU 6EME RAPPORT, > Summary for Policy Makers)
-- https://www.nature.com/articles/s41586-019-0912-1 (UTILISATION DU ML POUR PREDIRE LE CLIMAT ET LIMITES)
+- [x] https://www.ipcc.ch/report/ar6/wg1/ (> CHECK LE CHAPITRE 11 DU 6EME RAPPORT, > Summary for Policy Makers)
+- [ ] https://www.nature.com/articles/s41586-019-0912-1 (UTILISATION DU ML POUR PREDIRE LE CLIMAT ET LIMITES)
 - https://arxiv.org/abs/1809.10786 (Montre comment le deep learning peut améliorer les prédictions météo)
 - https://arxiv.org/abs/2404.10024
 - https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2018MS001368
