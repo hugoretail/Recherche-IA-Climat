@@ -11,6 +11,9 @@ Consulté dernièrement le : 2 sept. 2026
 - **Earth System Science** : TODO.
 - **ANN** : TODO.
 - **Geo Spatial Data** : TODO. 
+- **Evapotranspiration** : TODO.
+- **PByte**: 1 PByte is 10^15 bytes
+- **Lambertian surface** : TODO.
 
 ## J'en retiens surtout ça
 
@@ -23,7 +26,12 @@ Consulté dernièrement le : 2 sept. 2026
 
 - Quelles variables considérer dans la construction / l'évaluation d'un modèle ? Pour incendies, quantité d'un gaz dans l'atmosphère, ...
 
-### 3. Deep-learning opportunities in Earth system science 
+### 4. Deep-learning challenges in Earth system science
+
+- Les données récoltées de la Terre par nos machines (satellites, antennes, ...) récupèrent jusqu'à >100 PByte de volume de  données.
+- De nombreux défis (voir les 5 points).
+
+### 5. Integration with physical modelling
 
 - TODO
 
