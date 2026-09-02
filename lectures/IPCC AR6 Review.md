@@ -4,7 +4,7 @@
 
 Référence : https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_SPM.pdf
 
-Consulté dernièrement le : 12 juil. 2027
+Consulté dernièrement le : 12 juil. 2026
 
 ## Glossaire
 

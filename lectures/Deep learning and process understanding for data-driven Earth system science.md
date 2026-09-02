@@ -4,12 +4,13 @@
 
 Référence : https://pure.mpg.de/rest/items/item_3029184_9/component/file_3282959/content
 
-Consulté dernièrement le : 1 sept. 2027
+Consulté dernièrement le : 2 sept. 2026
 
 ## Glossaire
 
 - **Earth System Science** : TODO.
-- **TODO** : TODO.
+- **ANN** : TODO.
+- **Geo Spatial Data** : TODO. 
 
 ## J'en retiens surtout ça
 
@@ -20,7 +21,11 @@ Consulté dernièrement le : 1 sept. 2027
 
 ### 2. State-of-the-art in geoscientific machine learning
 
-TODO
+- Quelles variables considérer dans la construction / l'évaluation d'un modèle ? Pour incendies, quantité d'un gaz dans l'atmosphère, ...
+
+### 3. Deep-learning opportunities in Earth system science 
+
+- TODO
 
 ## Datasets
 
