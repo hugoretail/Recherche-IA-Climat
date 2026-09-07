@@ -1,10 +1,10 @@
-# Renewable and Sustainable Energy Reviews
+# Fast SGL Fourier transforms for scattered data
 
 ## Sources
 
 Référence : https://arxiv.org/pdf/1809.10786
 
-Consulté dernièrement le : 2 sept. 2026
+Consulté dernièrement le : 7 sept. 2026
 
 ## J'en retiens surtout ça
 
