@@ -35,6 +35,16 @@ TODO ...
 - Not yet
 
 ## A lire
+
+### Recherches & Etudes
+
+#### Bordeaux
+
+- https://radar.inria.fr/report/2022/geostat/index.html
+- https://study.agro-bordeaux.fr/labo/laboratory-for-integration-from-material-to-system/
+
+#### Anywhere
+
 - [x] https://www.sciencedirect.com/science/article/abs/pii/S1364032124009390
 - [x] https://www.ipcc.ch/report/ar6/wg1/ (> CHECK LE CHAPITRE 11 DU 6EME RAPPORT, > Summary for Policy Makers)
 - [x] https://www.nature.com/articles/s41586-019-0912-1 (UTILISATION DU ML POUR PREDIRE LE CLIMAT ET LIMITES)
@@ -43,6 +53,23 @@ TODO ...
 - https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2018MS001368
 - https://www.mdpi.com/2571-6255/7/12/482
 - https://arxiv.org/html/2405.01607v4
+- https://www.microsoft.com/en-us/research/project/geospatial-machine-learning/
+
+### Laboratoires & Groupes
+
+#### Bordeaux
+
+- https://epoc-umr.fr/
+- https://ispa.hub.inrae.fr/content/download/4426/48115?version=1
+- https://www.labri.fr/
+
+#### Anywhere
+
+- https://geography.wisc.edu/geods/
+
+### Librairies
+
+- https://opengeoai.org/
 
 ## Données
 - https://www.data.gouv.fr/datasets/search?q=m%C3%A9t%C3%A9o+france
