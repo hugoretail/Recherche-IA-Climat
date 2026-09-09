@@ -57,15 +57,7 @@ TODO ...
 
 ### Laboratoires & Groupes
 
-#### Bordeaux
-
-- https://epoc-umr.fr/
-- https://ispa.hub.inrae.fr/content/download/4426/48115?version=1
-- https://www.labri.fr/
-
-#### Anywhere
-
-- https://geography.wisc.edu/geods/
+Etudes accessibles [ici](laboratoires/NOTES.md).
 
 ### Librairies
 
