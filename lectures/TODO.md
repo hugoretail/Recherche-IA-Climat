@@ -1,5 +1,14 @@
 # A lire
 
+## To Check
+
+- Google Scholar
+- MLDP
+- ACM Digital Library
+- IEEE Xplore Digital Library
+- SpringerLink
+- Elsevier (ScienceDirect)
+
 ## Recherches & Etudes
 
 ### Bordeaux
