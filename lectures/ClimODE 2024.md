@@ -23,10 +23,6 @@ Consulté dernièrement le : 15 sept. 2026
 
 - Ils utilisent KQV paramétré par CNN.
 
-### 4 Experiments
-
-TODO
-
 ## Approfondir
 
 - ...
