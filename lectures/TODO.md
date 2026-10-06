@@ -23,7 +23,7 @@
 - [x] https://www.nature.com/articles/s41586-019-0912-1 (UTILISATION DU ML POUR PREDIRE LE CLIMAT ET LIMITES)
 - [x] https://arxiv.org/abs/1809.10786 (Montre comment le deep learning peut améliorer les prédictions météo)
 - [x] https://arxiv.org/abs/2404.10024
-- [ ] https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2018MS001368
-- https://www.mdpi.com/2571-6255/7/12/482
+- [x] https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2018MS001368
+- [ ] https://www.mdpi.com/2571-6255/7/12/482
 - https://arxiv.org/html/2405.01607v4
 - https://www.microsoft.com/en-us/research/project/geospatial-machine-learning/

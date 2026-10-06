@@ -1,4 +1,4 @@
-# Renewable and Sustainable Energy Reviews
+# Deep learning and process understanding for data-driven Earth system science
 
 ## Sources
 
